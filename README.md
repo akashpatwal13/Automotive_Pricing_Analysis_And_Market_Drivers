@@ -10,14 +10,18 @@ The project utilizes the ‘UCI Machine Learning’ Repository's Automobile data
 Data Pipeline and Engineering
 1. Data Cleaning and Imputation
 Raw data often contains missing values (indicated as '?' in the source). The following steps were taken to ensure data integrity:
+
 (a) Numeric Imputation: Columns like `normalized_losses` and `horsepower` were imputed using the median to maintain the central tendency while remaining robust against outliers.
+
 (b) Categorical Imputation:  Missing values in `num_doors` and `fuel_system` were handled using the mode (most frequent value).
 Datatype Conversion: Ensuring numeric strings were converted to floats/ints to allow for mathematical operations.
 
 
 2. Feature Scaling
 To ensure that features with larger ranges (like `curb_weight`) did not disproportionately influence the model compared to smaller ranges (like `bore`), two scaling techniques were applied:
+
 (a) Z-score Standardization (StandardScaler): Centers data around a mean of 0 with a standard deviation of 1.
+
 (b) Min-Max Scaling:  Compresses data into a range between 0 and 1.
 This preparation is critical for maintaining model stability and interpretability.
 
@@ -40,7 +44,9 @@ Four primary features were selected based on correlation analysis: `horsepower`,
 
 2. Model Evaluation
 The dataset was split into training and testing sets (80/20) to evaluate the model on unseen data.
+
 (a) R-Squared ($R^2$): Used to measure the proportion of variance in the dependent variable (price) explained by the independent variables.
+
 (b) Root Mean Squared Error (RMSE): Used to quantify the average magnitude of the prediction error.
 
 Repository Structure
