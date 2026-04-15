@@ -33,6 +33,7 @@ Statistical Framework
 The project applies inferential statistics to validate assumptions before they are introduced into the machine learning model.
 
 0. Correlation heatmap
+
 Utilized a correlation heatmap to identify and quantify the relationships between numeric technical specifications and vehicle price, serving as a data-driven basis for feature selection after plotting chart to observe - Distribution of Car Prices.
 
 <img width="567" height="456" alt="image" src="https://github.com/user-attachments/assets/455ebd62-90a9-4958-93a2-5ad9259fd089" />
