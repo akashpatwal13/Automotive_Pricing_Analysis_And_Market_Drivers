@@ -30,13 +30,17 @@ Statistical Framework
 The project applies inferential statistics to validate assumptions before they are introduced into the machine learning model.
 
 0.Correlation heatmap
-Utilized a correlation heatmap to identify and quantify the relationships between numeric technical specifications and vehicle price, serving as a data-driven basis for feature selection.
+Utilized a correlation heatmap to identify and quantify the relationships between numeric technical specifications and vehicle price, serving as a data-driven basis for feature selection after plotting chart to observe - Distribution of Car Prices.
+
+<img width="567" height="456" alt="image" src="https://github.com/user-attachments/assets/455ebd62-90a9-4958-93a2-5ad9259fd089" />
+
 
 <img width="891" height="642" alt="image" src="https://github.com/user-attachments/assets/03ec7794-2f77-4f13-b612-f2eea8109d5d" />
 
 
 1. Independent Samples T-Test
 Used to compare the mean price of two distinct groups (Petrol vs. Diesel). This test determined if the observed price difference was statistically significant or merely a result of random sampling.
+
 
 2. One-Way ANOVA
 Used to compare mean prices across three or more categories (Front-Wheel, Rear-Wheel, and Four-Wheel Drive). The test evaluates whether at least one group mean is statistically different from the others.
@@ -55,6 +59,9 @@ The dataset was split into training and testing sets (80/20) to evaluate the mod
 (a) R-Squared ($R^2$): Used to measure the proportion of variance in the dependent variable (price) explained by the independent variables.
 
 (b) Root Mean Squared Error (RMSE): Used to quantify the average magnitude of the prediction error.
+
+<img width="869" height="543" alt="image" src="https://github.com/user-attachments/assets/d553c2fa-d055-4cc5-ab36-0d2a0dddccb6" />
+
 
 Repository Structure
 (a)	Data_wrangling.ipynb: This notebook implements the end-to-end data preparation pipeline, including missing value imputation, feature engineering, and dimensional scaling to ensure a high-integrity dataset for modeling.
