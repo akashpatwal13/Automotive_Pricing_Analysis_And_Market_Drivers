@@ -29,6 +29,12 @@ This preparation is critical for maintaining model stability and interpretabilit
 Statistical Framework
 The project applies inferential statistics to validate assumptions before they are introduced into the machine learning model.
 
+0.Correlation heatmap
+Utilized a correlation heatmap to identify and quantify the relationships between numeric technical specifications and vehicle price, serving as a data-driven basis for feature selection.
+
+<img width="891" height="642" alt="image" src="https://github.com/user-attachments/assets/03ec7794-2f77-4f13-b612-f2eea8109d5d" />
+
+
 1. Independent Samples T-Test
 Used to compare the mean price of two distinct groups (Petrol vs. Diesel). This test determined if the observed price difference was statistically significant or merely a result of random sampling.
 
