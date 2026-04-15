@@ -3,6 +3,7 @@ Automotive Pricing Analysis & Market Drivers
 A data-driven analysis of automotive pricing that identifies key market drivers using statistical testing and linear regression. This project translates technical vehicle specifications into actionable insights to support optimized pricing strategies and market positioning.
 
 Technical Documentation
+
 This repository contains a comprehensive data science workflow designed to quantify the drivers of vehicle pricing. While the associated Executive Summary details the business implications, this document outlines the technical methodology and statistical rigor used to derive those insights.
 
 Link to the dashboard: https://public.tableau.com/app/profile/aakash.anand/viz/AutomotiveForesightPortalV5/Dashboard3?publish=yes 
