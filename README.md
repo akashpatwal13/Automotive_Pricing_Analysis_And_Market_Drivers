@@ -2,11 +2,11 @@ Project: **Automotive Pricing Analysis & Market Drivers**
 
 A data-driven analysis of automotive pricing that identifies key market drivers using statistical testing and linear regression. This project translates technical vehicle specifications into actionable insights to support optimized pricing strategies and market positioning.
 
+[View Tableau Dashboard](https://public.tableau.com/app/profile/aakash.anand/viz/AutomotiveForesightPortalV5/Dashboard3?publish=yes)
+
 Technical Documentation
 
 This repository contains a comprehensive data science workflow designed to quantify the drivers of vehicle pricing. While the associated Executive Summary details the business implications, this document outlines the technical methodology and statistical rigor used to derive those insights.
-
-[View Tableau Dashboard](https://public.tableau.com/app/profile/aakash.anand/viz/AutomotiveForesightPortalV5/Dashboard3?publish=yes)
 
 1. Technical Overview
 The project utilizes the ‘UCI Machine Learning’ Repository's Automobile dataset to build a predictive framework for market valuation. The primary objective was to move beyond descriptive statistics into inferential analysis and predictive modeling.
