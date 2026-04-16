@@ -90,6 +90,3 @@ The project was developed in a Python 3.x environment. The following libraries a
 
 To install all dependencies, execute:
 `pip install -r requirements.txt`
-
-
-<img width="451" height="695" alt="image" src="https://github.com/user-attachments/assets/ef2733f9-9e3a-4d60-b0ec-e1d06687ef05" />
