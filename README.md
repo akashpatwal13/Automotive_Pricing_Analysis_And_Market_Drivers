@@ -6,7 +6,7 @@ A data-driven analysis of automotive pricing that identifies key market drivers 
 
 Technical Documentation
 
-This repository contains a comprehensive data science workflow designed to quantify the drivers of vehicle pricing. While the associated E [Executive Summary](https://drive.google.com/file/d/1-BcjVD12hyKfspHwfUmpAf6iGFr495B1/view) details the business implications, this document outlines the technical methodology and statistical rigor used to derive those insights.
+This repository contains a comprehensive data science workflow designed to quantify the drivers of vehicle pricing. While the associated [Executive Summary](https://drive.google.com/file/d/1-BcjVD12hyKfspHwfUmpAf6iGFr495B1/view) details the business implications, this document outlines the technical methodology and statistical rigor used to derive those insights.
 
 1. Technical Overview
    
