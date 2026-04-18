@@ -48,6 +48,8 @@ Utilized a correlation heatmap to identify and quantify the relationships betwee
 <img width="891" height="642" alt="image" src="https://github.com/user-attachments/assets/03ec7794-2f77-4f13-b612-f2eea8109d5d" />
 
 
+
+
 1. Independent Samples T-Test
 Used to compare the mean price of two distinct groups (Petrol vs. Diesel). This test determined if the observed price difference was statistically significant or merely a result of random sampling.
 
@@ -70,7 +72,11 @@ The dataset was split into training and testing sets (80/20) to evaluate the mod
 
 (b) Root Mean Squared Error (RMSE): Used to quantify the average magnitude of the prediction error.
 
+
+
 <img width="986" height="591" alt="image" src="https://github.com/user-attachments/assets/a254cac7-e8fb-4223-a1cf-8d1463364114" />
+
+
 
 
 Repository Structure
