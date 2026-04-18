@@ -34,6 +34,7 @@ To ensure that features with larger ranges (like `curb_weight`) did not dispropo
 This preparation is critical for maintaining model stability and interpretability.
 
 Statistical Framework
+
 The project applies inferential statistics to validate assumptions before they are introduced into the machine learning model.
 
 0. Correlation heatmap
