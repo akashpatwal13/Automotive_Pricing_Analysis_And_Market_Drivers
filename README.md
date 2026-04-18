@@ -25,6 +25,7 @@ Datatype Conversion: Ensuring numeric strings were converted to floats/ints to a
 
 
 2. Feature Scaling
+   
 To ensure that features with larger ranges (like `curb_weight`) did not disproportionately influence the model compared to smaller ranges (like `bore`), two scaling techniques were applied:
 
 (a) Z-score Standardization (StandardScaler): Centers data around a mean of 0 with a standard deviation of 1.
