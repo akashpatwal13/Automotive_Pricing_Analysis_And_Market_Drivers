@@ -42,8 +42,6 @@ Utilized a correlation heatmap to identify and quantify the relationships betwee
 
 <img width="891" height="642" alt="image" src="https://github.com/user-attachments/assets/03ec7794-2f77-4f13-b612-f2eea8109d5d" />
 
-<img width="567" height="456" alt="image" src="https://github.com/user-attachments/assets/455ebd62-90a9-4958-93a2-5ad9259fd089" />
-
 
 1. Independent Samples T-Test
 Used to compare the mean price of two distinct groups (Petrol vs. Diesel). This test determined if the observed price difference was statistically significant or merely a result of random sampling.
@@ -54,6 +52,8 @@ Used to compare mean prices across three or more categories (Front-Wheel, Rear-W
 
 3. Chi-Square Test of Independence
 Conducted to examine the relationship between two categorical variables (`body_style` and `drive_wheels`). This test identified hidden patterns in how manufacturers "bundle" vehicle features.
+
+<img width="567" height="456" alt="image" src="https://github.com/user-attachments/assets/455ebd62-90a9-4958-93a2-5ad9259fd089" /> 
 
 Model Development: Linear Regression
 The predictive component of the project was built using a Multiple Linear Regression model via Scikit-Learn.
