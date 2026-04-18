@@ -2,7 +2,9 @@ Project: **Automotive Pricing Analysis & Market Drivers**
 
 A data-driven analysis of automotive pricing that identifies key market drivers using statistical testing and linear regression. This project translates technical vehicle specifications into actionable insights to support optimized pricing strategies and market positioning.
 
-[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/aakash.anand/viz/AutomotiveForesightPortalV9/Dashboard3)
+<img width="1275" height="759" alt="image" src="https://github.com/user-attachments/assets/8fa9f052-fd3c-4fab-89cd-6f9a601a8282" />
+
+Tableau Dashboard here: [Automotive Foresight Portal (Tableau Public)](https://public.tableau.com/app/profile/aakash.anand/viz/AutomotiveForesightPortalV9/Dashboard3)
 
 Technical Documentation
 
