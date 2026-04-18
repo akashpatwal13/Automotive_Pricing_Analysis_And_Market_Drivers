@@ -69,10 +69,8 @@ The dataset was split into training and testing sets (80/20) to evaluate the mod
 <img width="986" height="591" alt="image" src="https://github.com/user-attachments/assets/a254cac7-e8fb-4223-a1cf-8d1463364114" />
 
 
-<img width="869" height="543" alt="image" src="https://github.com/user-attachments/assets/d553c2fa-d055-4cc5-ab36-0d2a0dddccb6" />
-
-
 Repository Structure
+
 (a)	Data_wrangling.ipynb: This notebook implements the end-to-end data preparation pipeline, including missing value imputation, feature engineering, and dimensional scaling to ensure a high-integrity dataset for modeling.
 
 (b)	Analysis.ipynb: This notebook executes the core exploratory data analysis, statistical hypothesis testing, and predictive modeling to identify and quantify the primary factors influencing automotive market value. 
