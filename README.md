@@ -78,15 +78,21 @@ The dataset was split into training and testing sets (80/20) to evaluate the mod
 
 Repository Structure
 
-(a)	Data_wrangling.ipynb: This notebook implements the end-to-end data preparation pipeline, including missing value imputation, feature engineering, and dimensional scaling to ensure a high-integrity dataset for modeling.
-
-(b)	Analysis.ipynb: This notebook executes the core exploratory data analysis, statistical hypothesis testing, and predictive modeling to identify and quantify the primary factors influencing automotive market value. 
-
-(c)	 cleaned_auto_data_final.csv: The processed dataset ready for visualization or further modeling.
-
-(d)	 Images.ppt: Contains all generated plots, including the correlation heatmap and regression visuals.
-
-(e)	Executive Summary: Automotive Pricing Analysis & Market Drivers.pdf: This document provides a high-level strategic overview of the analysis, translating technical statistical results into actionable business insights.
+Automotive_Pricing_Analysis_And_Market_Drivers/
+│
+├── data/
+│   ├── pre_processed_data/
+│   └── clean_auto_data.xlsx   # Final cleaned dataset used for analysis
+│
+├── notebooks/                    # Jupyter notebooks for Data wrangling, EDA (Analysis), statistical testing, and modeling
+│
+├── strategic_executive_report/   # Strategic executive report with insights and recommendations
+│
+├── visualizations/               # Tableau dashboards and visualization links
+│
+├── .gitignore                   # Specifies files ignored by Git
+├── README.md                    # Project details
+└── requirements.txt             # Python dependencies
 
 
 Environment and Dependencies
