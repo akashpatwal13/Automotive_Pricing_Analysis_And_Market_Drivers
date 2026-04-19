@@ -78,7 +78,7 @@ The dataset was split into training and testing sets (80/20) to evaluate the mod
 
 Repository Structure
 
-1. data/ contains the datasets used in the project. The subfolder pre_processed_data/ includes clean_auto_data.xlsx, which is the cleaned and feature-engineered dataset used for analysis.
+1. data/ contains the datasets used in the project. It includes link to the pre-processed data and clean_auto_data.xlsx, which is the cleaned and feature-engineered dataset used for analysis.
 
 2. notebooks/ contains Jupyter notebooks used for data cleaning, exploratory data analysis (EDA), statistical testing, and regression modeling.
 
