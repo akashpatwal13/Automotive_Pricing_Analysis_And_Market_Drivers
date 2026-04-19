@@ -95,10 +95,15 @@ Repository Structure
 
 
 Environment and Dependencies
+
 The project was developed in a Python 3.x environment. The following libraries are required to replicate the analysis:
+
 (a) Data Manipulation: pandas, numpy
+
 (b) Visualization: matplotlib, seaborn
+
 (c) Statistics:  scipy.stats
+
 (d) Machine Learning: scikit-learn
 
 To install all dependencies, execute:
