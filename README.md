@@ -78,21 +78,20 @@ The dataset was split into training and testing sets (80/20) to evaluate the mod
 
 Repository Structure
 
-Automotive_Pricing_Analysis_And_Market_Drivers/
-│
-├── data/
-│   ├── pre_processed_data/
-│   └── clean_auto_data.xlsx   # Final cleaned dataset used for analysis
-│
-├── notebooks/                    # Jupyter notebooks for Data wrangling, EDA (Analysis), statistical testing, and modeling
-│
-├── strategic_executive_report/   # Strategic executive report with insights and recommendations
-│
-├── visualizations/               # Tableau dashboards and visualization links
-│
-├── .gitignore                   # Specifies files ignored by Git
-├── README.md                    # Project details
-└── requirements.txt             # Python dependencies
+1. data/ contains the datasets used in the project. The subfolder pre_processed_data/ includes clean_auto_data.xlsx, which is the cleaned and feature-engineered dataset used for analysis.
+
+2. notebooks/ contains Jupyter notebooks used for data cleaning, exploratory data analysis (EDA), statistical testing, and regression modeling.
+
+3. strategic_executive_report/ contains the strategic executive report with key insights and recommendations.
+
+4. visualizations/ contains Tableau dashboards and related visualization assets.
+
+5. .gitignore specifies the files and folders that are ignored by Git.
+
+6. README.md provides the project overview, methodology, and insights.
+
+7. requirements.txt lists the Python libraries required to run the project.
+
 
 
 Environment and Dependencies
