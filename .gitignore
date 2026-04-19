@@ -1,1 +1,21 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
 
+# macOS System Files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment/Packages
+venv/
+env/
+.env
+
+# Tableau & Logs
+*.log
+*.tfl
+*.tflx
